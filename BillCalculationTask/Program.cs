@@ -19,7 +19,13 @@
             // 2: 10 people
             // 3: 6 people
             // Commit your changes and add screnshot evidence of your program running to the Readme
+            int chargepp = 15;
+            Console.WriteLine("Please enter the number of people");
+            int peoplenum = Convert.ToInt32(Console.ReadLine());
+            if (peoplenum  0 )
+            {
 
+            }
         }
     }
 }
